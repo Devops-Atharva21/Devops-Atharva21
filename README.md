@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-I am a **DevOps & Infrastructure Professional** focused on breaking down silos, automating everything that moves, and building highly available systems. Currently architecting pipelines, managing containerized ecosystems, and keeping production environments stable.
+I am a **DevOps Engineer** focused on automating workflows, improving deployment processes, and building reliable infrastructure. I enjoy working with containerized applications, Kubernetes, and Infrastructure as Code to solve real-world challenges.
 
 * 💡 **Current Focus:** Advanced Kubernetes orchestrations & Infrastructure as Code (IaC).
 * ⚙️ **Philosophy:** If you have to do it more than twice, automate it.
