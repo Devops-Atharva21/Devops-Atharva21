@@ -38,8 +38,7 @@ I am a **DevOps & Infrastructure Professional** focused on breaking down silos, 
 
 ---
 
-## 🔍 Click to Expand My Ecosystem (Interactive)
-
+## 🔍 Click to Expand My Ecosystem 
 <details>
 <summary><b>📐 Infrastructure as Code (IaC) Architecture</b></summary>
 <br>
