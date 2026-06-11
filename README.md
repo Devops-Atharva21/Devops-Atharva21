@@ -1,5 +1,9 @@
 # Hi there, I'm Atharva! 👋 👨‍💻
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=With+Great+Power+Comes+Great+Responsibility.;Automate+Wisely.+Deploy+Confidently.+Monitor+Relentlessly." alt="Typing SVG" />
+</p>
+
 <p align="left">
     <a href="https://linkedin.com/in/atharva-khilari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://x.com/DevopsAtharva"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
