@@ -1,7 +1,7 @@
 # Hi there, I'm Atharva! 👋 👨‍💻
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=950&lines=Automate+Wisely.;Deploy+Confidently.;Monitor+Relentlessly." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=950&lines=With+great+power+comes+great+responsibility.;Automate+Wisely.;Deploy+Confidently.;Monitor+Relentlessly." alt="Typing SVG" />
 </p>
 
 <p align="left">
